@@ -1,1 +1,1 @@
-# g-o-api
+# géo-api
