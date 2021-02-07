@@ -1,0 +1,7 @@
+{
+  "name": "communes-vue-api",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
